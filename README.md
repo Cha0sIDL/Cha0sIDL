@@ -3,10 +3,8 @@
 - 🍻 Graduated from 🇨🇳 [SUST](https://www.sust.edu.cn), _IoT Engineering_
 - ⚡ Erlang / Golang / C.
 
-<a href="https://github.com/Cha0sIDL/ZeroBot-Plugin">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cha0sIDL&layout=compact&hide=javascript,css,objective-c,pascal" />
-</a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cha0sIDL&layout=compact&hide=javascript,css,objective-c,pascal)](https://github.com/Cha0sIDL/ZeroBot-Plugin)
 
 [![Cha0sIDL's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cha0sIDL&show_icons=true&theme=radical)](https://github.com/Cha0sIDL)
 
