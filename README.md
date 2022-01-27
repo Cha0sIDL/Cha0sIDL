@@ -4,7 +4,7 @@
 - ⚡ Erlang / Golang / C.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cha0sIDL&layout=compact)](https://github.com/Cha0sIDL/ZeroBot-Plugin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cha0sIDL&layout=compact&hide=javascript,css,objective-c)](https://github.com/Cha0sIDL/ZeroBot-Plugin)
 
 [![Cha0sIDL's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cha0sIDL&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
